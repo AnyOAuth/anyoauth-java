@@ -1,0 +1,23 @@
+{
+  "target": "java",
+  "version": "0.1.0",
+  "tag": "v0.1.0",
+  "repository": "https://github.com/AnyOAuth/anyoauth-java",
+  "release": "https://github.com/AnyOAuth/anyoauth-java/releases/tag/v0.1.0",
+  "schemaSha256": "1b99cb23da24b2aa0af33d45aadf907de460185671bc29fa61402450e390d6a2",
+  "sourceCommit": "c44e7460cbebe26a6baa00bc6c4ee2f48d69e907",
+  "files": {
+    ".github/workflows/verify.yml": "f86883743e8150c54f11600e96c994ddff7f1e6d01139b3cb7a5059b02209326",
+    ".gitignore": "83e9133e57dda751344052d09ba612ed1216c2f4a427b72021061bea57d95074",
+    "LICENSE": "3c9fac2d1ae230e52ce82ed635341b438e0c4957bc637a1a792c2def5b82c61a",
+    "README.md": "767b7b7d0068196a01a1b21c1c86000c6f630941d4a539ab2b4f9bb4d4326f67",
+    "build.sh": "48513a068c97f31572f4fa8b4193b7a03e6ee6afa65308ff75e89714c05b4087",
+    "contract.json": "c63a01517cf66ae37cdc9e6adb822254a8c4368a78188e2bdc34b1a50138c1d0",
+    "pom.xml": "72a7b034fa734e8182e5de86b6c8078280ed0ca2f7365fbea68888e24e4f7bad",
+    "provenance.json": "02d103157fe7cce407125d465bf32356fd5aaeaf2e3db54c3e240d32fb47adc9",
+    "src/main/java/com/anyoauth/AnyOAuth.java": "6a803dd50508d4588d72fcb02a54d90a8417d2cf99a34ee7d5bc29a19c151954",
+    "test/conformance/Conformance.java": "1ef78e62816330025fa47503dc61528242b75d5b589254a9051eec17c120d920",
+    "test/conformance/check.mjs": "c37cd48a63c52e525d90f86ba02b0deb1bc40e87ef7aff003cda40913cd7e5a7",
+    "verify.mjs": "b87b331b672eca02c8b5b9fc85141fe7d25080421ce632316203dd419f15d0e8"
+  }
+}
